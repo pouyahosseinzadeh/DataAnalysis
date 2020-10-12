@@ -3,7 +3,7 @@ close all
 % Pouya Hosseinzadeh
 
 % Load the data
-load dati_silver
+load data_silver
 
 % Input data
 L = 0.1;
